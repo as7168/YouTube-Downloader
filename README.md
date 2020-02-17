@@ -3,6 +3,6 @@ downloads and converts youtube video to mp3
 
 ## Requirements
 
-```python-pip3```
+```python3-pip```
 
 ```pytube3```
